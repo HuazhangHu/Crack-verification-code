@@ -9,10 +9,10 @@ from selenium.webdriver.support import expected_conditions as EC
 from chaojiying import Chaojiying
 
 USERNAME=2017221005024
-PASSWORD = '52013143344x'
+PASSWORD = '我的密码不告诉你'
 
 CHAOJIYING_USERNAME = '957001934'
-CHAOJIYING_PASSWORD = '52013143344x'
+CHAOJIYING_PASSWORD = '我的密码不告诉你'
 CHAOJIYING_SOFT_ID =897825
 CHAOJIYING_KIND = 9004
 
