@@ -8,8 +8,7 @@ from PIL import Image
 from selenium.webdriver import ActionChains
 from selenium.common.exceptions import TimeoutException
 import random
-EMAIL='957001934@qq.com'
-PASSWORD='hhz957001934'
+
 
 class CrackGeetest():
     def __init__(self):
